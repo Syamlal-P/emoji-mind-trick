@@ -21,6 +21,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-blueviolet?style=for-the-badge)
 
+<br/>
+
+### ✦ &nbsp;[&nbsp;**Experience The Illusion Live**&nbsp;](https://mathstrick.vercel.app/)&nbsp; ✦
+
+> _Click above to witness the magic — no installation required._
+
 </div>
 
 ---
